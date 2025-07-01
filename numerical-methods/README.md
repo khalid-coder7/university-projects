@@ -8,9 +8,7 @@ The project includes algorithms for solving mathematical problems encountered in
 
 ## 📘 Included Algorithms
 
-- **Linear & Polynomial Regression**  
-- **Interpolation Methods**  
-- **Numerical Integration**  
+- **Linear & Polynomial Regression**    
 - **Root Finding Methods**  
 
 ---
