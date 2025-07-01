@@ -2,8 +2,7 @@
 
 This repository contains a collection of MATLAB implementations developed as coursework for the **Estimation, Identification, and Learning** class in my Mechatronics Engineering program.
 
-All four projects are included in a single MATLAB file:  
-**`identification-estimation-projects.m`**
+All four projects are included in a single MATLAB file.
 
 ---
 
