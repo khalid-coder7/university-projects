@@ -20,6 +20,10 @@ Each project is organized under the course it was developed for, with code writt
   - System Identifier using Wiener Filter
   - Kalman State Estimator
   - Neural Network XOR Learner
+ 
+- **Artificial Intelligence**
+  - Connect 4 AI Agent (Search-Based)
+  - Gridworld Markov Decision Process (Reinforcement Learning)
 
 - **Signals and Systems**
   - Signal Generator App
